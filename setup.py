@@ -12,7 +12,7 @@ install_requires = [
 
 setuptools.setup(
     name="imusensor",
-    version="1.0.1",
+    version="1.0.2",
     author="Niranjan Kukkala",
     author_email="niranjan.reddy.wo@gmail.com",
     description="Linking Raspberry pi with MPU9250",
